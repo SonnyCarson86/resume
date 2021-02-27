@@ -27,7 +27,7 @@ h2 {
 }
 
 h3 {
-  font-size: 150%;
+  font-size: 1.5rem;
   color: #ffffff;
 }
 
@@ -37,14 +37,13 @@ a {
 }
 
 p {
-
-
-
+  font-size: 1.4rem;
 }
 
 table {
-
-
+  align-items: center;
+  cellpadding: 20;
+  cellspacing: 10;
 }
 
 
@@ -246,7 +245,7 @@ table {
     font-size: 1.75rem;
   }
 
-  p {font-size:1.75rem;
+  p {font-size:1.3rem;
   }
 
   .topcloud  {
